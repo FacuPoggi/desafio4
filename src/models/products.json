@@ -1,0 +1,10 @@
+[{"id":1,"title":"Samsung S20","description":"Celular Samsung de alta gama","price":10000,"thumbnail":["public/img/samsung-s20.jpg", "Otra posible imagen"],"code":"aaaa","stock":10,"status":true,"category":"Celulares"},
+{"id":2,"title":"Xiaomi Mi-9","description":"Celular Xiaomi de gama media","price":5000,"thumbnail":["public/img/xiaomi-mi-9.jpg,"],"code":"aaab","stock":256,"status":true,"category":"Celulares"},
+{"id":3,"title":"Iphone X","description":"Celular Apple de alta gama","price":8000,"thumbnail":["public/img/iphone-x.jpg"],"code":"aaac","stock":56,"status":true,"category":"Celulares"},
+{"id":4,"title":"Mouse Logitech","description":"Mouse de marca Logitech","price":6000,"thumbnail":["public/img/mouse-logitech.jpg"],"code":"aaad","stock":32,"status":true,"category":"Gaming"},
+{"id":5,"title":"MacBook","description":"Laptop marca Apple modelo Mac Air","price":15000,"thumbnail":["public/img/mac-air.jpg"],"code":"aaae","stock":22,"status":true,"category":"Laptop"},
+{"id":6,"title":"Apple TV","description":"Decodificador marca Apple","price":5000,"thumbnail":["public/img/apple-tv.jpg"],"code":"aaaf","stock":253,"status":true,"category":"Electrodomestico"},
+{"id":7,"title":"Smart TV Novatech","description":"Television Smart TV","price":10000,"thumbnail":["public/img/smart-tv-novatech.jpg"],"code":"aaag","stock":56,"status":true,"category":"Electrodomestico"},
+{"id":8,"title":"Notebook Lenovo","description":"Notebook Lenovo","price":7000,"thumbnail":["public/img/notebook-lenovo.jpg"],"code":"aaah","stock":526,"status":true,"category":"Laptop"},
+{"id":9,"title":"parlante Kalley","description":"Parlante","price":4000,"thumbnail":["public/img/parlante-kalley.jpg"],"code":"aaai","stock":32,"status":true,"category":"Electrodomestico"},
+{"id":10,"title":"HP Pavilion","description":"Impresora marca HP","price":3000,"thumbnail":["public/img/hp.pavilion.jpg"],"code":"aaaj","stock":22,"status":true,"category":"Electrodomestico"}]
