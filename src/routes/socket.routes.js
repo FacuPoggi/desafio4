@@ -21,7 +21,7 @@ routerSocket.get('/realtimeproducts', async (req, res) => {
 routerSocket.get('/', async (req, res) => {
     const productos = await productManager.getAllProducts()
     res.render("index", {
-        titulo: "Desafio 4 Santiago Basso",
+        titulo: "Desafio 4",
         products: productos
     })
 })

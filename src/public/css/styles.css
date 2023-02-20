@@ -1,13 +1,15 @@
 footer{
-    background-color: red;
+    background-color: black;
     display: flex;
     justify-content: center;
+    color: white;
 }
 
 nav{
-    background-color: red;
+    background-color: black;
     display: flex;
     justify-content: center;
+    color: white;
 }
 
 body{

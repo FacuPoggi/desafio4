@@ -15,16 +15,16 @@ class Producto {
     }
 }
 
-const producto1 = new Producto("Samsung S20", "Celular Samsung de alta gama", 10000, ["public/img/samsung-s20.jpg", "Otra posible imagen"], "aaaa", 10, true, "Celulares");
-const producto2 = new Producto("Xiaomi Mi-9", "Celular Xiaomi de gama media", 5000, ["public/img/xiaomi-mi-9.jpg"], "aaab", 256, true, "Celulares");
-const producto3 = new Producto("Iphone X", "Celular Apple de alta gama", 8000, ["public/img/iphone-x.jpg"], "aaac", 56, true, "Celulares");
-const producto4 = new Producto("Mouse Logitech", "Mouse de marca Logitech", 6000, ["public/img/mouse-logitech.jpg"], "aaad", 32, true, "Gaming");
-const producto5 = new Producto("MacBook", "Laptop marca Apple modelo Mac Air", 15000, ["public/img/mac-air.jpg"], "aaae", 22, true, "Laptop");
-const producto6 = new Producto("Apple TV", "Decodificador marca Apple", 5000, ["public/img/apple-tv.jpg"], "aaaf", 253, true, "Electrodomestico");
-const producto7 = new Producto("Smart TV Novatech", "Television Smart TV", 10000, ["public/img/smart-tv-novatech.jpg"], "aaag", 56, true, "Electrodomestico");
-const producto8 = new Producto("Notebook Lenovo", "Notebook Lenovo", 7000, ["public/img/notebook-lenovo.jpg"], "aaah", 526, true, "Laptop");
-const producto9 = new Producto("parlante Kalley", "Parlante", 4000, ["public/img/parlante-kalley.jpg"], "aaai", 32, true, "Electrodomestico");
-const producto10 = new Producto("HP Pavilion", "Impresora marca HP", 3000, ["public/img/hp.pavilion.jpg"], "aaaj", 22, true, "Electrodomestico");
+const producto1 = new Producto("Samsung S20", "Celular Samsung de alta gama", 10000, ["./img/samsung-s20.jpg"], "aaaa", 10, true, "Celulares");
+const producto2 = new Producto("Xiaomi Mi-9", "Celular Xiaomi de gama media", 5000, ["./img/xiaomi-mi-9.jpg"], "aaab", 256, true, "Celulares");
+const producto3 = new Producto("Iphone X", "Celular Apple de alta gama", 8000, ["./img/iphone-x.jpg"], "aaac", 56, true, "Celulares");
+const producto4 = new Producto("Mouse Logitech", "Mouse de marca Logitech", 6000, ["./img/mouse-logitech.jpg"], "aaad", 32, true, "Gaming");
+const producto5 = new Producto("MacBook", "Laptop marca Apple modelo Mac Air", 15000, ["./img/mac-air.jpg"], "aaae", 22, true, "Laptop");
+const producto6 = new Producto("Apple TV", "Decodificador marca Apple", 5000, ["./img/apple-tv.jpg"], "aaaf", 253, true, "Electrodomestico");
+const producto7 = new Producto("Smart TV Novatech", "Television Smart TV", 10000, ["./img/smart-tv-novatech.jpg"], "aaag", 56, true, "Electrodomestico");
+const producto8 = new Producto("Notebook Lenovo", "Notebook Lenovo", 7000, ["./img/notebook-lenovo.jpg"], "aaah", 526, true, "Laptop");
+const producto9 = new Producto("parlante Kalley", "Parlante", 4000, ["./img/parlante-kalley.jpg"], "aaai", 32, true, "Electrodomestico");
+const producto10 = new Producto("HP Pavilion", "Impresora marca HP", 3000, ["./img/hp.pavilion.jpg"], "aaaj", 22, true, "Electrodomestico");
 
 export class ProductManager {
     constructor(path) {
